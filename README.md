@@ -31,3 +31,7 @@ DESCRIBTION-> This project is a visually engaging Snake Game developed in C++ us
 -> Score tracking and on-screen display using SFML fonts
 
 -> Modular, object-oriented design for readability and scalability
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/dec5f427-4b15-48f8-8a0e-f133ac0d6d95)
